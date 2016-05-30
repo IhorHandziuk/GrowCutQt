@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/bacteria.png</file>
+        <file>Images/folder_open.png</file>
+        <file>Images/save.png</file>
+        <file>Images/Cut.png</file>
+        <file>Images/edit-clear.png</file>
+    </qresource>
+</RCC>
